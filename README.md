@@ -17,7 +17,7 @@
 <a><img src="https://img.shields.io/badge/-c++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
