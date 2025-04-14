@@ -1,7 +1,7 @@
 ## Hello, This is Sadaf 😅👋
 
 <!--
-**mkh2097/mkh2097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sadafem/sadafem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### Brief Introduction
@@ -20,7 +20,6 @@
 <a><img src="https://img.shields.io/badge/-GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-x86%20&%20Arm%20Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"/></a>
 </p>
 
 ### Contact me
@@ -34,20 +33,3 @@
 <details><summary><b>📊 Statistics</b></summary>
 
 
-- 📈 My Github Stats
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkh2097&count_private=true&show_icons=true&theme=tokyonight" />
-
-- 🐱‍👤 My Top Languages
-  </p>
-  <p align="center">
-  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkh2097&layout=compact&theme=tokyonight"/>
-  </p>
-                                                                                                                                   
-- ⚡ My Streak 
-  </p>
-  <p align="center">
-  <img height="164em" src="https://github-readme-streak-stats.herokuapp.com?user=mkh2097&theme=tokyonight"/>
-  </p>
-                                                                                                                                   
-  </details>                                                                                                                                 
