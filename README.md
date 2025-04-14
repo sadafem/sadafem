@@ -8,7 +8,7 @@
 
 - 🌱 I’m Sadaf Erfanmanesh. I was born and raised in Tehran, Iran.
 - 🎓 I recently graduated from University of Calgay with a masters degree in Computer Science.
-- 💻 I have an enthusiasm for a variety of fields from Machine Learning, Data Analysis, Network Simulations, Cryptography, Algorithms to UI/UX Designing.
+- 💻 I have an enthusiasm for a variety of fields from Backend development, Data Analysis, Network Simulations, Algorithms to UI/UX Designing.
 - 🎡 My hobbies are reading novels and poems, learning languages, surfing Youtube, and playing instrumentals.
 
 
@@ -17,7 +17,8 @@
 <a><img src="https://img.shields.io/badge/-c++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
+
 <a><img src="https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-x86%20&%20Arm%20Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"/></a>
