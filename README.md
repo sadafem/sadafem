@@ -8,7 +8,7 @@
 
 - 🌱 I’m Sadaf Erfanmanesh. I was born and raised in Tehran, Iran.
 - 🎓 I recently graduated from University of Calgay with a masters degree in Computer Science.
-- 💻 I have an enthusiasm for a variety of fields from Backend development, Data Analysis, Network Simulations, Algorithms to UI/UX Designing.
+- 💻 I have an enthusiasm for a variety of fields from Machine Learning, Data Analysis, Network Simulations, Cryptography, Algorithms to UI/UX Designing.
 - 🎡 My hobbies are reading novels and poems, learning languages, surfing Youtube, and playing instrumentals.
 
 
@@ -17,21 +17,18 @@
 <a><img src="https://img.shields.io/badge/-c++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
-
+<a><img src="https://img.shields.io/badge/-GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-x86%20&%20Arm%20Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"/></a>
 </p>
 
 ### Contact me
 <p align="left">
-<a href="mailto:mkh2097@gmail.com"><img src="https://img.shields.io/badge/-mkh2097@gmail.com-B23121?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:mkh2097@outlook.com"><img src="https://img.shields.io/badge/-mkh2097@outlook.com-0072c6?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mkh2097/"><img src="https://img.shields.io/badge/-mkh2097-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.gitlab.com/mkh2097/"><img src="https://img.shields.io/badge/-mkh2097-000000?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://twitter.com/mkh2097"><img src="https://img.shields.io/badge/-mkh2097-00acee?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://soundcloud.com/mkh2097"><img src="https://img.shields.io/badge/-mkh2097-ff8800?style=for-the-badge&logo=Soundcloud&logoColor=white"/></a>
+<a href="mailto:sadaf.erfan@gmail.com"><img src="https://img.shields.io/badge/-sadaf.erfan@gmail.com-B23121?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/sadaf-erfanmanesh/"><img src="https://img.shields.io/badge/-sadafem-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 </p>
 
 <details><summary><b>📊 Statistics</b></summary>
