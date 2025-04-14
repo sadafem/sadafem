@@ -8,7 +8,7 @@
 
 - 🌱 I’m Sadaf Erfanmanesh. I was born and raised in Tehran, Iran.
 - 🎓 I recently graduated from University of Calgay with a masters degree in Computer Science.
-- 💻 I have an enthusiasm for a variety of fields from Machine Learning, Data Analysis, Network Simulations, Cryptography, Algorithms to UI/UX Designing.
+- 💻 I have an enthusiasm for a variety of fields from Software development, Computer networks, Algorithms to UI/UX Designing.
 - 🎡 My hobbies are reading novels and poems, learning languages, surfing Youtube, and playing instrumentals.
 
 
