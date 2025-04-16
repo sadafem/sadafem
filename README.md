@@ -6,7 +6,7 @@
 
 ### Brief Introduction
 
-- 🌱 I’m Sadaf Erfanmanesh. I was born and raised in Tehran, Iran.
+- 🌱 I’m Sadaf Erfanmanesh. I was born and raised in Tehran, Iran. Now I'm living in Calgary, Canada.
 - 🎓 I recently graduated from University of Calgay with a masters degree in Computer Science.
 - 💻 I have an enthusiasm for a variety of fields from Software development, Computer networks, Algorithms to UI/UX Designing.
 - 🎡 My hobbies are reading novels and poems, learning languages, surfing Youtube, and playing instrumentals.
